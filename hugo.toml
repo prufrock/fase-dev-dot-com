@@ -1,4 +1,4 @@
-baseURL = 'https://fazedev.com/'
+baseURL = 'https://fasedev.com/'
 languageCode = 'en-us'
-title = 'fazedev'
+title = 'fasedev'
 theme = 'ananke'
