@@ -1,0 +1,4 @@
+baseURL = 'https://fazedev.com/'
+languageCode = 'en-us'
+title = 'fazedev'
+theme = 'ananke'
